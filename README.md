@@ -1,1 +1,1 @@
-Project to genrate the password 
+Project of codsoft summer internship 
